@@ -31,6 +31,8 @@ You input any function and derivative order. The demo runs all four methods and 
 - Bottom plot: absolute error of each method vs the true derivative
 - Console summary: max and average error per method
 
+![Main Comparison](images/Main_Comparison.png)
+
 Run it:
 demo_compare_derivatives
 

@@ -31,7 +31,7 @@ You input any function and derivative order. The demo runs all four methods and 
 - Bottom plot: absolute error of each method vs the true derivative
 - Console summary: max and average error per method
 
-![Main Comparison](images/Main_Comparison.png)
+![Main Comparison](Main_Comparison.png)
 
 Run it:
 demo_compare_derivatives
@@ -43,6 +43,8 @@ The error plot clearly shows Difference Quotient is 50x less accurate than the o
 
 ### demo_tangentline
 You input any function and step size. Produces a 2x2 grid — one subplot per method — each showing the original function, derivative approximation, tangent line at the starting point, and intersection points.
+
+![Tangent Line Demo](Tangent_Line_Demo.png)
 
 Run it:
 demo_tangentline
